@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "server": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
